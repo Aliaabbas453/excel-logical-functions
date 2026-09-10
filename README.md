@@ -1,5 +1,5 @@
 # excel-logical-functions
-# 📊 Microsoft Excel Functions & Data Analysis Projects
+# 📊 Microsoft Excel Functions assignment
 
 A collection of practical Microsoft Excel projects and assignments designed to build strong foundations in spreadsheet-based data analysis, data manipulation, logical functions, lookup functions, conditional calculations, and text processing.
 
