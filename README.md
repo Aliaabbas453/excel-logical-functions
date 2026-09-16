@@ -16,6 +16,8 @@ This repository documents my hands-on learning and application of Excel function
 - INDEX
 - MATCH
 - INDEX + MATCH
+- XMATCH
+- OFFSET
 
 ### 🧠 Logical Functions
 - IF
